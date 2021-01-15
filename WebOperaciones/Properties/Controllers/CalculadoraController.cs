@@ -34,7 +34,7 @@ namespace WebOperaciones.Properties.Controllers
         {
             return num1 - num2;
         }
-        /*[HttpGet]
+        [HttpGet]
         [Route("dividir")]
         public int dividir(int num1, int num2)
         {
@@ -46,7 +46,7 @@ namespace WebOperaciones.Properties.Controllers
         {
             return num1 / num2;
         }
-        [HttpGet]
+        /*[HttpGet]
         [Route("multipliacion")]
         public int multiplicacion(int num1, int num2)
         {
