@@ -226,7 +226,7 @@ namespace NUnitTestCalculadora
             Assert.AreEqual(esperado, resultado);
 
 
-        }/*
+        }
         [Test]
         public void TestMultiplicacion1()
         {
@@ -334,7 +334,7 @@ namespace NUnitTestCalculadora
             Assert.AreEqual(esperado, resultado);
 
 
-        }
+        }/*
         [Test]
         public void TestDividir1()
         {
