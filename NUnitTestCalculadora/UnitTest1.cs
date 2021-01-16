@@ -118,7 +118,7 @@ namespace NUnitTestCalculadora
 
 
         }
-        /*
+        
         [Test]
         public void TestResta1()
         {
@@ -226,7 +226,7 @@ namespace NUnitTestCalculadora
             Assert.AreEqual(esperado, resultado);
 
 
-        }
+        }/*
         [Test]
         public void TestMultiplicacion1()
         {
