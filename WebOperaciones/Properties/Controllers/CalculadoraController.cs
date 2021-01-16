@@ -47,13 +47,13 @@ namespace WebOperaciones.Properties.Controllers
             return num1 / num2;
         }
         [HttpGet]
-        [Route("multipliacion")]
+        [Route("multiplicacion")]
         public int multiplicacion(int num1, int num2)
         {
             return num1 * num2;
         }
         [HttpPost]
-        [Route("multipliacion")]
+        [Route("multiplicacion")]
         public int multi([FromHeader] int num1, [FromHeader] int num2)
         {
             return num1 * num2;

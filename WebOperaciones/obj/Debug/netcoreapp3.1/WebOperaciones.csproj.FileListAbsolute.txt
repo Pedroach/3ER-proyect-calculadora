@@ -37,3 +37,4 @@ C:\Users\USER\source\repos\3ER-proyect-calculadora\WebOperaciones\obj\Debug\netc
 C:\Users\USER\source\repos\3ER-proyect-calculadora\WebOperaciones\obj\Debug\netcoreapp3.1\WebOperaciones.dll
 C:\Users\USER\source\repos\3ER-proyect-calculadora\WebOperaciones\obj\Debug\netcoreapp3.1\WebOperaciones.pdb
 C:\Users\USER\source\repos\3ER-proyect-calculadora\WebOperaciones\obj\Debug\netcoreapp3.1\WebOperaciones.genruntimeconfig.cache
+C:\Users\USER\source\repos\3ER-proyect-calculadora\WebOperaciones\obj\Debug\netcoreapp3.1\WebOperaciones.csprojAssemblyReference.cache
